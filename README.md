@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola! 👋, Soy Luis Ricardo Acosta Meza</h1></summary>
+    <summary><h1 style="display: inline-block">Luis Ricardo Acosta Meza</h1></summary>
   </ul>
 </div>
 
@@ -16,11 +16,10 @@
   </ul>
 </div>
 
-- 🛠️ **Especialista en Automatización:** Implementé un sistema de cotización digital para +1000 productos, reduciendo el tiempo de operación de **20 minutos a 1 minuto**.
-- 🎓 **Orgullosamente IPN:** Ingeniero en Computación por la ESIME Culhuacán.
-- 🚀 **Enfoque Actual:** Transformar flujos manuales en soluciones digitales escalables (Backend & Business Logic).
-- 💡 **Core:** Arquitectura de sistemas, diseño de bases de datos (SQL & NoSQL) y RBAC.
-- ⚙️ **Stack:** Experto en PHP/Laravel, modernización de sistemas legacy (VBA) y ecosistema web moderno (React/JS).
+- 🎓 **Ingeniero en Computación** egresado de la **ESIME Culhuacán - IPN**, con un enfoque sólido en el ciclo de vida del desarrollo de software y la optimización de procesos.
+- 🚀 **Desarrollo de Sistemas:** Experiencia en el diseño de arquitecturas escalables, gestión de flujos de trabajo digitales y transición de procesos analógicos a entornos automatizados de alto rendimiento.
+- 💡 **Perfil Híbrido:** Capacidad analítica para la resolución de problemas técnicos complejos, complementada con experiencia en diseño digital y herramientas multimedia para interfaces de usuario funcionales.
+- ⚙️ **Stack Técnico:** Especializado en entornos Backend (PHP/Laravel) y Frontend moderno (React/JS), con dominio en el manejo de bases de datos relacionales y no relacionales.
 
 <p align="center">
 <table align="center">
@@ -46,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,js,react,php,laravel,html,css,tailwind,bootstrap,mysql,oracle,firebase,git,postman,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,js,react,php,laravel,html,css,tailwind,bootstrap,mysql,firebase,git,vscode,ps,ai,pr,ae,au&perline=11" />
   </a>
 </p>
 
@@ -60,7 +59,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta Conmigo 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacto 🤝</h2></summary>
   </ul>
 </div>
 
@@ -76,5 +75,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <i>"Building technology that converts complex processes into scalable digital solutions."</i>
+  <i>"Transforming complex requirements into scalable and efficient digital solutions."</i>
 </p>
