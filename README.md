@@ -1,80 +1,80 @@
-# 👋 Hi, I'm Luis Ricardo Acosta Meza
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Software Developer | Computer Engineer
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">¡Hola! 👋, Soy Luis Ricardo Acosta Meza</h1></summary>
+  </ul>
+</div>
 
-Computer Engineer focused on **backend development, automation, and business process optimization**.  
-I enjoy building systems that transform **manual operational workflows into efficient digital solutions**.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
-One of my key implementations was a **digital quoting system for a catalog of 1000+ products**, reducing quotation time from **20 minutes to 1 minute** through automation and database optimization.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Software Developer | Computer Engineer</h2></summary>
+  </ul>
+</div>
 
----
+- 🛠️ **Especialista en Automatización:** Implementé un sistema de cotización digital para +1000 productos, reduciendo el tiempo de operación de **20 minutos a 1 minuto**.
+- 🎓 **Orgullosamente IPN:** Ingeniero en Computación por la ESIME Culhuacán.
+- 🚀 **Enfoque Actual:** Transformar flujos manuales en soluciones digitales escalables (Backend & Business Logic).
+- 💡 **Core:** Arquitectura de sistemas, diseño de bases de datos (SQL & NoSQL) y RBAC.
+- ⚙️ **Stack:** Experto en PHP/Laravel, modernización de sistemas legacy (VBA) y ecosistema web moderno (React/JS).
 
-# 💻 Tech Stack
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lram-dev&theme=dark&show_icons=true&count_private=true" alt="Estadísticas de lram-dev" />
+  <br></br>
+  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lram-dev&theme=dark&hide_border=false" /> 
+</td>
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lram-dev&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>        
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stack 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,js,react,php,laravel,html,css,tailwind,bootstrap,mysql,oracle,firebase,git,postman,vscode&perline=9" />
+  </a>
+</p>
 
-### Automation
+### Infrastructure & Tools
+![XAMPP](https://img.shields.io/badge/XAMPP-FB8C00?style=for-the-badge&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Methodologies
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
 ---
 
-# 🧠 Technical Interests
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Conecta Conmigo 🤝</h2></summary>
+  </ul>
+</div>
 
-- Backend system architecture  
-- Database design and normalization  
-- Role-Based Access Control (RBAC)  
-- Process automation  
-- Business workflow optimization  
-- Web application development
+<p align="center">
+<a href="https://linkedin.com/in/ricardo-acosta-meza-lram" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:ricardo.acosta.meza.lram@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
+</p>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lram-dev&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="lram-dev" />
+</div>
 
-# 🎓 Education
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Computer Engineering**  
-Instituto Politécnico Nacional – ESIME Culhuacán
-
----
-
-# 📜 Certifications
-
-![Grandstream](https://img.shields.io/badge/Grandstream-Certified%20Specialist-blue?style=for-the-badge)
-
-![Agile](https://img.shields.io/badge/Agile-Project%20Management-black?style=for-the-badge)
-
----
-
-# 🌎 Languages
-
-![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
-
-![English](https://img.shields.io/badge/English-B2%20Upper%20Intermediate-blue?style=for-the-badge)
-
----
-
-# 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Acosta-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ricardo-acosta-meza-lram)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ricardo.acosta.meza.lram@gmail.com)
-
----
-
-⭐ *Building technology that converts complex processes into scalable digital solutions.*
+<p align="center">
+  <i>"Building technology that converts complex processes into scalable digital solutions."</i>
+</p>
